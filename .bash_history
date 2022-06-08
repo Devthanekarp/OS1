@@ -1,8 +1,5 @@
 ./p
 ./p
-./p
-./p
-./p
 vim kill.c
 gcc  kill.c -o p
 ./p
@@ -498,3 +495,6 @@ git push -u origin main
 git push https://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@github.com/Devthanekarp/OS.git
 git push -u origin main
 git push -u origin main
+cd /home/osboxes/OS/
+gcc hello.c -o hello
+./hello
